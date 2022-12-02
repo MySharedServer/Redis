@@ -1,0 +1,17 @@
+C:\SC\Solutions\RedisMasterSalve\RedisHelper\bin\Debug\RedisHelper.dll.config
+C:\SC\Solutions\RedisMasterSalve\RedisHelper\bin\Debug\RedisHelper.dll
+C:\SC\Solutions\RedisMasterSalve\RedisHelper\bin\Debug\RedisHelper.pdb
+C:\SC\Solutions\RedisMasterSalve\RedisHelper\bin\Debug\CSRedisCore.dll
+C:\SC\Solutions\RedisMasterSalve\RedisHelper\bin\Debug\Newtonsoft.Json.dll
+C:\SC\Solutions\RedisMasterSalve\RedisHelper\bin\Debug\NLog.dll
+C:\SC\Solutions\RedisMasterSalve\RedisHelper\bin\Debug\StackExchange.Redis.dll
+C:\SC\Solutions\RedisMasterSalve\RedisHelper\bin\Debug\System.ValueTuple.dll
+C:\SC\Solutions\RedisMasterSalve\RedisHelper\bin\Debug\CSRedisCore.xml
+C:\SC\Solutions\RedisMasterSalve\RedisHelper\bin\Debug\Newtonsoft.Json.xml
+C:\SC\Solutions\RedisMasterSalve\RedisHelper\bin\Debug\NLog.xml
+C:\SC\Solutions\RedisMasterSalve\RedisHelper\bin\Debug\StackExchange.Redis.xml
+C:\SC\Solutions\RedisMasterSalve\RedisHelper\bin\Debug\System.ValueTuple.xml
+C:\SC\Solutions\RedisMasterSalve\RedisHelper\obj\Debug\RedisHelper.csprojAssemblyReference.cache
+C:\SC\Solutions\RedisMasterSalve\RedisHelper\obj\Debug\RedisHelper.csproj.CopyComplete
+C:\SC\Solutions\RedisMasterSalve\RedisHelper\obj\Debug\RedisHelper.dll
+C:\SC\Solutions\RedisMasterSalve\RedisHelper\obj\Debug\RedisHelper.pdb
